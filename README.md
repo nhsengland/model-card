@@ -1,9 +1,10 @@
-# model-card
+# NHS England Template Model Card
 
-This is a work in progress repository where a standard model card template and file structure is being developed
+This is a work in progress repository where a generic [model card](https://arxiv.org/pdf/1810.03993) template is being developed.
 
-The idea is, any project working with a machine learning model(s) can use this template and include it in their own repository. This mean whenever a model is updated, the mdoel card can be updated alongside.
+Any project involving a machine learning model can use this template and include it in their own repository. This means that whenever a model is updated, the mdoel card can be updated alongside.
 
 The repo includes:
+
 1. The model card template
 2. An images folder where visualisations such as a confusion matrix can be stored for use in a model card
