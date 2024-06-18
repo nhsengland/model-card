@@ -1,15 +1,20 @@
-# Model Name Here Model Card
+# {Model Name} Model Card
 
-## Details
-| Detail | Information |
+## Specification
+
+_This section contains top-level information about what the model is. The details of this section are in a table format so as to quickly give the reader the relevant information._
+
+|  |  |
 | ---- | ---- |
-| **Description:** | General Overview of the model, what it does, and motivation for developing it. No more than one paragraph|
+| **Description:** | General overview of the model, what it does, and motivation for developing it. No more than one paragraph|
 | **Model Type:** | Specify the type of model (e.g., clustering, time series, deep learning models, reinforcement learning, supervised learning, ensemble, hybrid, etc.) and describe its main characteristics|
 | **Developed By:** | Name of the developer or development team |
 | **Launch Date:** | Expected or Launch Date |
 | **Version** | As in model registry |
 
 ## Intended Use
+
+_This section goes into more detail about why the model was built and who it was for. This section can go into more depth than previous, but should still be as succinct as possible._
 
 **Development Background:** A brief description of the model's development purpose and context, this is a chance to expand on the description, any additional background information on the model's focus area, who was this created for and how the model fits into the wider decision making process.
 
@@ -20,6 +25,8 @@
 **Use cases out of scope:** Describe any use cases out of scope
 
 ## Data
+
+_This section should detail basic details about the data used in and by the model. Any more detail should be provided in supplementary information, such as a DataSheet._
 
 **Data Overview:** A brief overview of where the data comes from, the type of data and it's coverage etc.
 
@@ -35,6 +42,8 @@
 | **Validation:** | x% | Use this space to describe the validation data, expanding on the data overview |
 
 ## Methodology and Training
+
+_This section should explain how and why the model was built to do what it does. Lengthy debate or detail of particular methodology should be provided in user documentation and not in the model card._
 
 **Model Type:** Specify the type of model (e.g., clustering, time series, deep learning models, reinforcement learning, supervised learning, ensemble, hybrid, etc.) and describe its main characteristics
 
@@ -57,6 +66,8 @@
 **Hyperparameter Tuning:** Or rename this section to 'Fine Tuning'. Remove if not relevant
 
 ## Evaluation and Performance
+
+_This section details how well the model peforms._
 
 ### Model Evaluation
 
@@ -87,4 +98,4 @@
 
 **Caveats and Limitations:** Describe here any important information or limitations (e.g.how will an NLP model handle changes in human language like new slang)
 
-**Addtional Notes:** Record anything else here
+**Additional Notes:** Record anything else here
