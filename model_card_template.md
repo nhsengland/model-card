@@ -57,13 +57,13 @@ _This section should explain how the model was built to do what it does, includi
 
 **Alternative Methods Considered:**
 1. Option B
-2. Option C etc
+2. Option C etc.
 
 ### Training Methods:
 
-**Training Process:** Description of the model training process
+**Training Process:** Description of the model training process.
 
-**Hyperparameter Tuning:** Or rename this section to 'Fine Tuning'. Remove if not relevant
+**Hyperparameter/Fine Tuning:** _(optional)_ Detail any additional  processes to select appropriate hyperparameters or other types of fine tuning.
 
 ## Evaluation and Performance
 
@@ -71,13 +71,14 @@ _This section details how well the model peforms._
 
 ### Model Evaluation
 
-**Evaluation Process:** How was the model evaluated
+**Evaluation Process:** How the model is evaluated.
 
-**Evaluation Focus:** Was a particular metric (e.g. F1 score) focussed on and why?
+**Evaluation Focus:** _(optional)_ If relevant, provide detail and an explanation for why a particular metric (e.g. F1 score), or performance for/across specific data subset/s was prioritised.
 
-**Performance breakdown:** Details on the model's performance across different categories
+**Performance breakdown:** Details on the model's performance across different subsets or categories of data.
 
-**Metrics:** Use the table below for performance metrics, adjust as appropriate
+**Metrics:** Use the table below for performance metrics, adjust as appropriate.
+
 | Metric | Value |
 | ---- | ---- |
 | F1 Score | 0.00 |
@@ -92,8 +93,8 @@ _This section details how well the model peforms._
 
 **Bias and fairness analysis:** Describe the approach for analysing error and the insights gained from them.
 
-**Implications for human safety:** Potential impact on human life, potential harm and safety and mitigatation
+**Implications for human safety:** Potential impact on human life, potential harm and safety and mitigatation.
 
 ### Caveats
 
-**Caveats and Limitations:** Describe here any important information or limitations (e.g.how will an NLP model handle changes in human language like new slang)
+**Caveats and Limitations:** Describe here any important information or limitations (e.g.how will an NLP model handle changes in human language like new slang).
