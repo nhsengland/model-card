@@ -97,5 +97,3 @@ _This section details how well the model peforms._
 ### Caveats
 
 **Caveats and Limitations:** Describe here any important information or limitations (e.g.how will an NLP model handle changes in human language like new slang)
-
-**Additional Notes:** Record anything else here
