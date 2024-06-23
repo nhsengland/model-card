@@ -26,7 +26,7 @@ _This section goes into more detail about why the model was built and who it was
 
 ## Data
 
-_This section should detail basic details about the data used in and by the model. Any more detail should be provided in supplementary information, such as a DataSheet._
+_This section should provide basic details about the data used in and by the model. Any more detail should be provided in supplementary information, such as a DataSheet._
 
 **Data Overview:** A brief overview of where the data comes from, the type of data and it's coverage etc.
 
