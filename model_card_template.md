@@ -43,7 +43,7 @@ _This section should provide basic details about the data used in and by the mod
 
 ## Methodology and Training
 
-_This section should explain how and why the model was built to do what it does. Lengthy debate or detail of particular methodology should be provided in user documentation and not in the model card._
+_This section should explain how the model was built to do what it does, including any justification where required. Lengthy debate or detail of particular methodology should be provided in user documentation and not in the model card._
 
 **Model Type:** Specify the type of model (e.g., clustering, time series, deep learning models, reinforcement learning, supervised learning, ensemble, hybrid, etc.) and describe its main characteristics
 
