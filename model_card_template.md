@@ -16,13 +16,13 @@ _This section contains top-level information about what the model is. The detail
 
 _This section goes into more detail about why the model was built and who it was for. This section can go into more depth than previous, but should still be as succinct as possible._
 
-**Development Background:** A brief description of the model's development purpose and context, this is a chance to expand on the description, any additional background information on the model's focus area, who was this created for and how the model fits into the wider decision making process.
+**Development Background:** A brief description of the model's development purpose and context, this is a chance to expand on the description, any additional background information on the model's focus area, who this originally created for and how the model fits into the wider decision making process.
 
-**Scope:** Specific application or functionality of the model
+**Scope:** Specific application or functionality of the model.
 
-**Intended Users:** Who is the model intended for?
+**Intended Users:** Describe who the model is intended for.
 
-**Use cases out of scope:** Describe any use cases out of scope
+**Use cases out of scope:** Describe any potential use cases out of scope.
 
 ## Data
 
@@ -45,15 +45,15 @@ _This section should provide basic details about the data used in and by the mod
 
 _This section should explain how the model was built to do what it does, including any justification where required. Lengthy debate or detail of particular methodology should be provided in user documentation and not in the model card._
 
-**Model Type:** Specify the type of model (e.g., clustering, time series, deep learning models, reinforcement learning, supervised learning, ensemble, hybrid, etc.) and describe its main characteristics
+**Model Type:** Specify the type of model (e.g., clustering, time series, deep learning models, reinforcement learning, supervised learning, ensemble, hybrid, etc.) and describe its main characteristics.
 
 **Models Used:** What models were used (e.g. embedding x + classifier y)
 
-**Justification:** Explain here why this approach was taken over another
+**Justification:** Explain here why this approach was taken over another.
 
 **Algorithm Details:** Describe the main steps when data is sent to the model for inference, e.g. how is text data converted into a binary class?
 
-**Feature Engineering:** Details on the process of creating and selecting features if relevant
+**Feature Engineering:** Details on the process of creating and selecting features if relevant.
 
 **Alternative Methods Considered:**
 1. Option B
