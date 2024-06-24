@@ -2,7 +2,7 @@
 
 This is a work in progress repository where a generic [model card](https://arxiv.org/pdf/1810.03993) template is being developed.
 
-Any project involving a machine learning model can use this template and include it in their own repository. This means that whenever a model is updated, the mdoel card can be updated alongside.
+Any project involving a machine learning model can use this template and include it in their own repository. This means that whenever a model is updated, the model card can be updated alongside.
 
 The repo includes:
 
