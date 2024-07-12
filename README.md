@@ -7,7 +7,7 @@ The main purpose of a model card is to *standardise ethical practice and reporti
 
 A model card is not a replacement for detailed documentation on quality assurance, testing, bias analysis and so on - these details should be included where relevant but kept to just the headline conclusions. Links to further documentation or analysis can be used to point people to more information.
 
-[1]: Model cards for model reporting https://arxiv.org/pdf/1810.03993
+[^1]: Model cards for model reporting https://arxiv.org/pdf/1810.03993
 
 By having a standardised template, creators of models can produce clear and open documentation, allowing for valuable scrutiny of solutions both internally and publicly.
 
