@@ -10,10 +10,10 @@ Model cards should be succinct, well-structured and easily digestible by the rea
 
 Having a template provides a clear first step for model developers to produce clear and open documentation. Standardisation can improve readability, allowing for valuable scrutiny of solutions both internally and publicly.
 
-This template can be copied into a new or existing repository and populated with information about the models in use in a system/service/algorithm. Storing the model card in a repository alongside the code used to train, test and evaluate models will help to keep documentation up to date as both the model and it's documentation can be updated in parallel. It also enables easy publication of the model card into a public repository.
+This template can be copied into a new or existing repository and populated with information about the models in use in a system/service/algorithm. Storing the model card in a repository alongside the code used to train, test and evaluate models will help to keep documentation up to date as both the model and it's documentation can be updated in parallel. If the code is published then the model card can be made public through the code publication process.
 
 
-## Origins
+## Origins/Inspiration
 
 Model cards were introduced in a [2019 paper](https://arxiv.org/pdf/1810.03993) and have been adapted by a number of organisations.
 
@@ -22,7 +22,7 @@ The initial design and set-up of the model card template drew inspiration from:
 * [Kaggle](https://www.kaggle.com/code/var0101/model-cards)
 * [HuggingFace](https://huggingface.co/docs/hub/en/model-cards)
 
-[HuggingFace](https://huggingface.co/docs/hub/en/model-cards) also uses model cards, but examples of these are more focussed around the reusability of a model – where someone develops an open source model that can be fine tuned or embedded within an algorithmic tool/process - rather than models that are trained and then deployed into a live system.
+The use of model cards was recommended in the UK Government's [Generative AI Framework for HMG](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html#:~:text=a%20particular%20person.-,Ethics,-The%20ethical%20questions) (published Jan 2024). This specifically references Google's [2019 paper](https://arxiv.org/pdf/1810.03993) from which most inspiration was drawn.
 
 ## Content
 The repo includes:
