@@ -8,7 +8,7 @@ Model cards should be succinct, well-structured and easily digestible by the rea
 
 [^1]: Model cards for model reporting https://arxiv.org/pdf/1810.03993
 
-By having a standardised template, creators of models can produce clear and open documentation, allowing for valuable scrutiny of solutions both internally and publicly.
+Having a template provides a clear first step for model developers to produce clear and open documentation. Standardisation can improve readability, allowing for valuable scrutiny of solutions both internally and publicly.
 
 This template can be copied into a new or existing repository and populated with information about the models that have been trained or that are in use in a system/service/algorithm. Storing the model card in a repository along with the code used to train, test and evaluate models will help to keep documentation up to date as both the model and it's documentation can be updated in parallel. It also enables easy publication of the model card into a public repository.
 
