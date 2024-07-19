@@ -15,7 +15,12 @@ This template can be copied into a new or existing repository and populated with
 
 ## Origins
 
-The initial design and set-up of the model card template drew inspiration from both a [Google model card example](https://modelcards.withgoogle.com/object-detection) and [Kaggle](https://www.kaggle.com/code/var0101/model-cards). Both look to be inspired by [this research paper](https://arxiv.org/pdf/1810.03993) which was recommended in the UK Government's [Generative AI Framework for HMG](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html#:~:text=a%20particular%20person.-,Ethics,-The%20ethical%20questions) (published Jan 2024).  
+Model cards were introduced in a [2019 paper](https://arxiv.org/pdf/1810.03993) and have been adapted by a number of organisations.
+
+The initial design and set-up of the model card template drew inspiration from:
+* [Google](https://modelcards.withgoogle.com/object-detection) 
+* [Kaggle](https://www.kaggle.com/code/var0101/model-cards)
+* [HuggingFace](https://huggingface.co/docs/hub/en/model-cards)
 
 [HuggingFace](https://huggingface.co/docs/hub/en/model-cards) also uses model cards, but examples of these are more focussed around the reusability of a model – where someone develops an open source model that can be fine tuned or embedded within an algorithmic tool/process - rather than models that are trained and then deployed into a live system.
 
