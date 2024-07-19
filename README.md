@@ -1,6 +1,5 @@
 # NHS England Template Model Card
 
-Welcome to the NHS England model card template! This README explains the purpose of a model card, it's design origins and what is included in this repository
 
 ## Purpose
 The main purpose of a model card is to *standardise ethical practice and reporting*[^1] and is primarily geared towards aiding transparency around a models use of data and methods and it's resulting performance. Model cards are intended to be short documents that contain a range of non-technical and technical content for a variety of audiences - try to keep the content concise so it easily digestible by the reader. 
