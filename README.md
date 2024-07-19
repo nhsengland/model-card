@@ -2,7 +2,7 @@
 
 
 ## Purpose
-The main purpose of a model card is to *standardise ethical practice and reporting*[^1] and is primarily geared towards aiding transparency around a models use of data and methods and it's resulting performance. Model cards are intended to be short documents that contain a range of non-technical and technical content for a variety of audiences - try to keep the content concise so it easily digestible by the reader. 
+The main purpose of a model card is to *standardise ethical practice and reporting*[^1] and is primarily geared towards aiding transparency around a model's use of data and methods and its resulting performance. Model cards are intended to be *short* documents that contain non-technical and technical content for a variety of audiences.
 
 A model card is not a replacement for detailed documentation on quality assurance, testing, bias analysis and so on - these details should be included where relevant but kept to just the headline conclusions. Links to further documentation or analysis can be used to point people to more information.
 
