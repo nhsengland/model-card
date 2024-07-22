@@ -2,9 +2,11 @@
 
 ## What are model cards?
 
-The main purpose of a model card is to display the essential components of models in a structured way. Model cards are one approach to increasing transparency between developers, users and stakeholders about details such as any data used, chosen methodology and performance. They are an example of a transparency tool which aims to *standardise ethical practice and reporting*[^1].
+The main purpose of a model card is to display the essential components of models in a structured way.
 
 Model cards are intended to be *short* documents that contain non-technical and technical content for a variety of audiences. They should be succinct, well-structured and easily digestible by the reader.
+
+Model cards are one approach to increasing transparency between developers, users and stakeholders about details such as any data used, chosen methodology and performance. They are an example of a transparency tool which aims to *standardise ethical practice and reporting*[^1].
 
 A model card is *not a replacement for detailed documentation* covering quality assurance, testing, bias analysis and so on. High-level overview of these areas can be included on a model card where relevant, but any further detail should be accessible from the model card via links to full documentation.
 
