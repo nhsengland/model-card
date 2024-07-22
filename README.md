@@ -6,13 +6,13 @@ The main purpose of a model card is to display the essential components of model
 
 Model cards are intended to be *short* documents that contain non-technical and technical content for a variety of audiences. They should be succinct, well-structured and easily digestible by the reader.
 
-Model cards are one approach to increasing transparency between developers, users and stakeholders about details such as any data used, chosen methodology and performance. They are an example of a transparency tool which aims to *standardise ethical practice and reporting*[^1].
+Model cards are one approach to increasing transparency between developers, users and stakeholders about details such as any data used, chosen methodology and performance. They are an example of a transparency tool which aims to standardise ethical practice and reporting[^1].
 
 A model card is *not a replacement for detailed documentation* covering quality assurance, testing, bias analysis and so on. High-level overview of these areas can be included on a model card where relevant, but any further detail should be accessible from the model card via links to full documentation.
 
 ## How to use this template
 
-Having a template is a helpful starting place for those who may not be familiar with model cards, and provides an indication rather than a specification of what information model developers should consider providing. The specific content and structure should be flexed to accommodate specific use cases and models, with the above purpose in mind.
+Having a template is a helpful starting place for those who may not be familiar with model cards, and provides *an indication rather than a specification* of what information model developers should consider providing. The specific content and structure *should be flexed* to accommodate specific use cases and models, with the above purpose in mind.
 
 This template can be copied into a new or existing repository and populated with information about the models in use in a system/service/algorithm. Storing the model card in a repository alongside the code used to train, test and evaluate models will help to keep documentation up to date as both the model and it's documentation can be updated in parallel. If the code is published then the model card can be made public through the code publication process.
 
