@@ -36,7 +36,7 @@ This template repository includes:
     3. Data
     4. Methodology and Training
     5. Evaluation and Performance
-2. An images folder where visualisations such as a confusion matrix can be stored for use in a model card
+2. Images folder to store visualisations (such as a confusion matrix) for use in a model card
 
 [^1]: [Model cards for model reporting](https://arxiv.org/pdf/1810.03993)
 [^2]: [Generative AI Framework for HMG](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg)
