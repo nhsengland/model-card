@@ -38,5 +38,5 @@ This template repository includes:
     5. Evaluation and Performance
 2. An images folder where visualisations such as a confusion matrix can be stored for use in a model card
 
-[^1]: Model cards for model reporting https://arxiv.org/pdf/1810.03993
-[^2]: Generative AI Framework for HMG https://www.gov.uk/government/publications/generative-ai-framework-for-hmg
+[^1]: [Model cards for model reporting](https://arxiv.org/pdf/1810.03993)
+[^2]: [Generative AI Framework for HMG](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg)
