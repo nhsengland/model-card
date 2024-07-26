@@ -1,31 +1,36 @@
 # NHS England Template Model Card
 
+## What are model cards?
 
-## Purpose
-The main purpose of a model card is to *standardise ethical practice and reporting*[^1] and is primarily geared towards aiding transparency around a model's use of data and methods and its resulting performance. Model cards are intended to be *short* documents that contain non-technical and technical content for a variety of audiences.
+The main purpose of a model card is to display the essential components of models in a structured way.
 
-Model cards should be succinct, well-structured and easily digestible by the reader. A model card is *not a replacement for detailed documentation* covering quality assurance, testing, bias analysis and so on. High-level overview of these areas can be included on a model card where relevant, but any further detail should be accessible from the model card via links to full documentation.
+Model cards are intended to be *short* documents that contain non-technical and technical content for a variety of audiences. They should be succinct, well-structured and easily digestible by the reader.
 
-[^1]: Model cards for model reporting https://arxiv.org/pdf/1810.03993
+Model cards are one approach to increasing transparency between developers, users and stakeholders about details such as any data used, chosen methodology and performance. They are an example of a transparency tool which aims to standardise ethical practice and reporting[^1].
 
-Having a template provides a clear first step for model developers to produce clear and open documentation. Standardisation can improve readability, allowing for valuable scrutiny of solutions both internally and publicly.
+A model card is *not a replacement for detailed documentation* covering quality assurance, testing, bias analysis and so on. High-level overview of these areas can be included on a model card where relevant, but any further detail should be accessible from the model card via links to full documentation.
+
+## How to use this template
+
+Having a template is a helpful starting place for those who may not be familiar with model cards, and provides *an indication rather than a specification* of what information model developers should consider providing. The specific content and structure *should be flexed* to accommodate specific use cases and models, with the above purpose in mind.
 
 This template can be copied into a new or existing repository and populated with information about the models in use in a system/service/algorithm. Storing the model card in a repository alongside the code used to train, test and evaluate models will help to keep documentation up to date as both the model and it's documentation can be updated in parallel. If the code is published then the model card can be made public through the code publication process.
 
+## Inspiration
 
-## Origins/Inspiration
+Model cards were first explored in a Google research paper[^1] in 2018 and are now widely used.
 
-Model cards were introduced in a [2019 paper](https://arxiv.org/pdf/1810.03993) and have been adapted by a number of organisations.
+The initial design and set-up of this model card template took inspiration from:
 
-The initial design and set-up of the model card template drew inspiration from:
-* [Google](https://modelcards.withgoogle.com/object-detection) 
+* [Google](https://modelcards.withgoogle.com/object-detection)
 * [Kaggle](https://www.kaggle.com/code/var0101/model-cards)
 * [HuggingFace](https://huggingface.co/docs/hub/en/model-cards)
 
-The use of model cards was recommended in the UK Government's [Generative AI Framework for HMG](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html#:~:text=a%20particular%20person.-,Ethics,-The%20ethical%20questions) (published Jan 2024). This specifically references Google's [2019 paper](https://arxiv.org/pdf/1810.03993) from which most inspiration was drawn.
+The use of model cards was recommended in the UK Government's Generative AI Framework for HMG[^2], published in January 2024. This specifically references the Google paper[^1] from which most inspiration was drawn.
 
 ## Content
-The repo includes:
+
+This template repository includes:
 
 1. The model card template
     1. Specification
@@ -33,5 +38,7 @@ The repo includes:
     3. Data
     4. Methodology and Training
     5. Evaluation and Performance
-2. An images folder where visualisations such as a confusion matrix can be stored for use in a model card
+2. Images folder to store visualisations (such as a confusion matrix) for use in a model card
 
+[^1]: [Model cards for model reporting](https://arxiv.org/pdf/1810.03993)
+[^2]: [Generative AI Framework for HMG](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg)
