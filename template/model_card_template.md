@@ -61,7 +61,7 @@ _This section should explain how the model was built to do what it does, includi
 
 ### Training Methods:
 
-**Training Process:** Description of the model training process.
+**Training Process:** Description of the model training process. Link to relevant code or repository used to create the model.
 
 **Hyperparameter/Fine Tuning:** _(optional)_ Detail any additional  processes to select appropriate hyperparameters or other types of fine tuning.
 
