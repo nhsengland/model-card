@@ -69,6 +69,8 @@ _This section should explain how the model was built to do what it does, includi
 
 _This section details how well the model peforms._
 
+_Note: The metrics and visual in this section is an example only and is not intended to indicate what evaluation methods and visuals you should use. Please adjust the types of metrics and visuals appropriately to suit requirements._
+
 ### Model Evaluation
 
 **Evaluation Process:** How the model is evaluated.
