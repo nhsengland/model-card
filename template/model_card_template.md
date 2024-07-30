@@ -61,13 +61,15 @@ _This section should explain how the model was built to do what it does, includi
 
 ### Training Methods:
 
-**Training Process:** Description of the model training process.
+**Training Process:** Description of the model training process. Link to relevant code or repository used to create the model.
 
 **Hyperparameter/Fine Tuning:** _(optional)_ Detail any additional  processes to select appropriate hyperparameters or other types of fine tuning.
 
 ## Evaluation and Performance
 
 _This section details how well the model peforms._
+
+_Note: The metrics and visual in this section is an example only and is not intended to indicate the evaluation methods and visuals you should use. Please adjust the types of metrics and visuals appropriately to suit requirements._
 
 ### Model Evaluation
 
@@ -85,7 +87,9 @@ _This section details how well the model peforms._
 | Precision | 0.00 |
 | Recall | 0.00 |
 
-<img src="images/example-cm.png" width="400"/><br>
+_The below confusion matrix is an example of how to include an image in this model card - visuals can be helpful but it is not a requirement to use a confusion matrix._
+
+<img src="./images/example-cm.png" width="400"/><br>
 
 **Performance in Deployment**: Detail the perfomance of the model in deployment once monitoring is completed. State any considerations taken for the model inference time and provide the results in brief.
 
