@@ -14,7 +14,7 @@ A model card is *not a replacement for detailed documentation* covering quality 
 
 This template can be used at any point during the model development lifecyle. It is recommended to start using and populating a model card as soon as model development begins because it serves as a useful piece of internal documentation.
 
-Once a model is finalised, ready for deployment or to be put into production, then a fully completed model card should be available alongside the code used for model training.
+Once a model is finalised, ready for deployment or put into production, a fully completed model card should be made available alongside the code used for model training.
 
 To achieve full transparency, the code and model card should be published.
 
