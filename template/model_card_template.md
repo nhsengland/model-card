@@ -87,6 +87,8 @@ _Note: The metrics and visual in this section is an example only and is not inte
 | Precision | 0.00 |
 | Recall | 0.00 |
 
+_The below confusion matrix is an example of how to include an image in this model card - visuals can be helpful but it is not a requirement to use a confusion matrix._
+
 <img src="./images/example-cm.png" width="400"/><br>
 
 **Performance in Deployment**: Detail the perfomance of the model in deployment once monitoring is completed. State any considerations taken for the model inference time and provide the results in brief.
