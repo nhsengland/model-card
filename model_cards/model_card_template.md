@@ -91,13 +91,13 @@ _The below confusion matrix is an example of how to include an image in this mod
 
 <img src="./visuals/example-cm.png" width="400"/><br>
 
-**Performance in Deployment**: Detail the perfomance of the model in deployment once monitoring is completed. State any considerations taken for the model inference time and provide the results in brief.
+**Performance in Deployment**: Detail the performance of the model in deployment once monitoring is completed. State any considerations taken for the model inference time and provide the results in brief.
 
 ### Ethical Considerations
 
 **Bias and fairness analysis:** Describe the approach for analysing error and the insights gained from them.
 
-**Implications for human safety:** Potential impact on human life, potential harm and safety and mitigatation.
+**Implications for human safety:** Potential impact on human life, potential harm and safety and mitigation.
 
 ### Caveats
 
