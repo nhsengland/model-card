@@ -22,7 +22,13 @@ To achieve full transparency, the code and model card should be published.
 
 Having a template is a helpful starting place for those who may not be familiar with model cards, and provides *an indication rather than a specification* of what information model developers should consider providing. The specific content and structure *should be flexed* to accommodate specific use cases and models, with the above purpose in mind.
 
-This template can be copied into a new or existing repository and populated with information about the models in use in a system/service/algorithm. Storing the model card in a repository alongside the code used to train, test and evaluate models will help to keep documentation up to date as both the model and it's documentation can be updated in parallel. If the code is published then the model card can be made public through the code publication process.
+### To copy the model card template you can either:
+1. Download the repository and then copy the 'model_cards' folder into your own repo
+2. Download the *model_card_template.md* file if you only want the markdown template and not the full folder structure.
+
+You can then start populating the model card with information about the models in use in your system/service/algorithm. 
+
+Storing the model card in a repository alongside the code used to train, test and evaluate models will help to keep documentation up to date as both the model and it's documentation can be updated in parallel. If the code is published then the model card can be made public through the code publication process.
 
 ### [Go to the template](model_cards/model_card_template.md)
 
