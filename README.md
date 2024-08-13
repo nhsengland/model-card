@@ -12,7 +12,7 @@ A model card is *not a replacement for detailed documentation* covering quality 
 
 ## When to use this template
 
-This template can be used at any point during the model development lifecyle. It is recommended to start using and populating a model card as soon as model development begins because it serves as a useful piece of internal documentation.
+This template can be used at any point during the model development lifecycle. It is recommended to start using and populating a model card as soon as model development begins because it serves as a useful piece of internal documentation.
 
 Once a model is finalised, ready for deployment or put into production, a fully completed model card should be made available alongside the code used for model training.
 
@@ -20,11 +20,17 @@ To achieve full transparency, the code and model card should be published.
 
 ## How to use this template
 
-Having a template is a helpful starting place for those who may not be familiar with model cards, and provides *an indication rather than a specification* of what information model developers should consider providing. The specific content and structure *should be flexed* to accommodate specific use cases and models, with the above purpose in mind.
+Having a template is a helpful starting place for those who may not be familiar with model cards and provides *an indication rather than a specification* of what information model developers should consider providing. The specific content and structure *should be flexed* to accommodate specific use cases and models, with the above purpose in mind.
 
-This template can be copied into a new or existing repository and populated with information about the models in use in a system/service/algorithm. Storing the model card in a repository alongside the code used to train, test and evaluate models will help to keep documentation up to date as both the model and it's documentation can be updated in parallel. If the code is published then the model card can be made public through the code publication process.
+### To copy the model card template, you can either:
+1. Download the repository and then copy the 'model_cards' folder into your own repo
+2. Download the *model_card_template.md* file if you only want the markdown template and not the full folder structure.
 
-### [Go to the template](template/model_card_template.md)
+You can then start populating the model card with information about the models in use in your system/service/algorithm. 
+
+Storing the model card in a repository alongside the code used to train, test and evaluate models will help to keep documentation up to date as both the model and it's documentation can be updated in parallel. If the code is published, then the model card can be made public through the code publication process.
+
+### [Go to the template](model_cards/model_card_template.md)
 
 ## Inspiration
 
@@ -42,13 +48,13 @@ The use of model cards was recommended in the UK Government's Generative AI Fram
 
 This template repository includes:
 
-1. [The model card template](template/model_card_template.md)
+1. [The model card template](model_cards/model_card_template.md)
     1. Specification
     2. Intended Use
     3. Data
     4. Methodology and Training
     5. Evaluation and Performance
-2. Images folder to store visualisations (such as a confusion matrix) for use in a model card
+2. Visuals folder to store visualisations (such as a confusion matrix) for use in a model card
 
 [^1]: [Model cards for model reporting](https://arxiv.org/pdf/1810.03993)
 [^2]: [Generative AI Framework for HMG](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg)
