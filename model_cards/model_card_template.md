@@ -54,7 +54,7 @@ _This section should explain how the model was built to do what it does, includi
 
 **Feature Engineering:** _Details on the process of creating and selecting features if relevant._
 
-**Algorithm Details:** _Describe the main steps in the model inference process, e.g. are there any pre or post processing steps or how is the model output interpreted or actioned upon?_
+**Algorithm Details:** _Describe the main steps in the model inference process, e.g. are there any pre or post processing steps or how is the model output interpreted or acted upon?_
 
 **Alternative Methods Considered:**
 1. _Option B_
@@ -68,7 +68,7 @@ _This section should explain how the model was built to do what it does, includi
 
 ## Evaluation and Performance
 
-_This section details how well the model peforms._
+_This section details how well the model performs._
 
 _Note: The metrics and visual in this section is an example only and is not intended to indicate the evaluation methods and visuals you should use. Please adjust the types of metrics and visuals appropriately to suit requirements._
 
